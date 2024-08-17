@@ -8,6 +8,5 @@ public class ClassePrincipal {
 
         public static String nomeCompleto(String primeiroNome,String segundoNome){
             return "Primeiro teste java : " + primeiroNome.concat(" ").concat(segundoNome);
-        };
+            }
     }
-
